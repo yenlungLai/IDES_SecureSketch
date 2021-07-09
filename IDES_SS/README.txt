@@ -15,7 +15,8 @@ To use nextperm.m function:
 
 This repository consists of the MATLAB source code for IDES-Secure Sketch
 Reference: 
-Y. -L. Lai and Z. Jin, "Input-Dependent Error Sketching Model Enabled Information Theoretical Secure Sketch," in IEEE Access, vol. 8, pp. 134681-134694, 2020, doi: 10.1109/ACCESS.2020.3009917.
+Y. -L. Lai and Z. Jin, "Input-Dependent Error Sketching Model Enabled Information Theoretical Secure Sketch," 
+in IEEE Access, vol. 8, pp. 134681-134694, 2020, doi: 10.1109/ACCESS.2020.3009917.
 
 
 Run the stimulation result with Present_SS2_RUN.m
