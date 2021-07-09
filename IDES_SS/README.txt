@@ -13,9 +13,4 @@ To use nextperm.m function:
 % 'mex nextperms.cpp' % from the directory holding nextperms.cpp
 
 
-Run the stimulation result with Encode_decode_RUN.m 
-(by choosing your own desired inner and outter BCH codes)
-
-
-Use plot_specialcase.m to exame the special channel for information 
-theoretic secure sketch where log(1/exp(-2*n*eps^2))=log(n+1) 
+Run the stimulation result with Present_SS2_RUN.m
